@@ -58,6 +58,16 @@ const displayThreeProducts = () => {
     radio3span.textContent = product3.name;
 };
 
+// const appendImg = () => {
+//     const img1 = document.getElementById('product1');
+//     const img2 = document.getElementById('product2');
+//     const img3 = document.getElementById('product3');
+
+//     img1.src = 
+
+//     img1.appendChild('')
+// };
+
 
 
 
